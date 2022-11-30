@@ -6,7 +6,7 @@ I think my projects are pretty neat,check them out:
 
 <details>
  <summary> Eats 🍱  </summary> 
-    <a href="https://github.com/Opengundumstyle/eats#readme" title="Eats">
+    <a href="https://github.com/Opengundumstyle/eats#readme" target="_blank" title="Eats">
       <img alt="" src="https://github.com/Opengundumstyle/eats/blob/main/app/assets/images/EatSnapShot.png" style="width: 300px; max-width: 100%;">
     </a>
 </details>
